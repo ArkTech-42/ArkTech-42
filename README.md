@@ -4,6 +4,8 @@
 
 - ⚡ Fun fact: I don't know where I put 42...
 
+Discover my Resume : https://arktech-42.github.io/ArkTech-42/
+
 <!---
 ArkTech-42/ArkTech-42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
